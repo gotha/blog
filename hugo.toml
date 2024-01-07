@@ -6,7 +6,7 @@ theme = ["github.com/setsevireon/photophobia"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3
+Paginate = 100
 googleAnalytics = ""
 
 [languages.en]
